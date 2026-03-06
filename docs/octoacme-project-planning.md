@@ -41,3 +41,4 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] RACI completed and shared with team *(see [OctoAcme RACI Template](./octoacme-raci-template.md))*

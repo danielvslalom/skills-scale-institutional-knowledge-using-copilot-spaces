@@ -27,7 +27,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: *(use the [OctoAcme RACI Template](./octoacme-raci-template.md) to map responsibilities)*
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
