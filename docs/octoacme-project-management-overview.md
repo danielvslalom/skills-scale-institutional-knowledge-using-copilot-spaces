@@ -18,7 +18,15 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX Designer: advocates for user-centric design; creates wireframes, prototypes, and design specs.
+- Business Analyst: elicits and documents requirements; bridges stakeholders and delivery teams.
+- DevOps Engineer: owns CI/CD pipelines, infrastructure as code, and deployment standards.
+- Change Manager: leads change readiness, communications, and training for go-live.
+- Scrum Master (if Agile): facilitates ceremonies, removes blockers, and coaches on Agile practices.
 - Stakeholders: provide inputs and approvals.
+
+> See [OctoAcme Roles & Personas](./octoacme-roles-and-personas.md) for detailed role summaries, responsibilities, and interaction guides.
+> Use the [OctoAcme RACI Template](./octoacme-raci-template.md) to map role responsibilities and handoffs at the start of every project.
 
 ## Key Artifacts
 - Project Charter / One-pager
